@@ -20,4 +20,5 @@ Sample website with plenty of files for demos
 
 ### Testing merge
 
-# COpyright
+# COpyright All right reverse
+
